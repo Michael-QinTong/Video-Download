@@ -1,0 +1,5 @@
+out/
+.gitattributes/
+.idea/
+.DS_Store/
+Video-Download.iml/
