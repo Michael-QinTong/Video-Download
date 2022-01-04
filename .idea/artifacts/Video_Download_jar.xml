@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Video-Download:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Video_Download_jar</output-path>
-    <root id="archive" name="Video-Download.jar">
-      <element id="module-output" name="Video-Download" />
-    </root>
-  </artifact>
-</component>
